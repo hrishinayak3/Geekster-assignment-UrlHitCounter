@@ -11,7 +11,7 @@ The URL Hit Counter is a simple Spring Boot application that allows you to track
 - **Language:** Java
 - **Build Tool:** Maven
 
-- ### Controller
+### Controller
 
 The Controller layer is responsible for handling incoming HTTP requests and delegating them to the appropriate services. It defines API endpoints for various operations, including adding visitors, retrieving hit counts, and updating counts for specific users. Each endpoint maps to a specific service method to ensure proper request handling and response generation.
 
